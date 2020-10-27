@@ -83,7 +83,8 @@
 }
 
 .user-3 {
-	background-image: url(../images/darkhelmet.jpg);
+	background-image: url(../images/3.png);
+	background-position: center;
 }
 
 .user-4 {
@@ -97,7 +98,8 @@
 }
 
 .user-6 {
-	background-image: url(../images/vespa.jpg);
+	background-image: url(../images/2.png);
+	background-position: center;
 }
 
 .user-7 {
